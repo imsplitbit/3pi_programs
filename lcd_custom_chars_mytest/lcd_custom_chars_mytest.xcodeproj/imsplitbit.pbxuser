@@ -1,0 +1,104 @@
+// !$*UTF8*$!
+{
+	4079523D0CEA382200E202DC /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 407952600CEA391500E202DC /* firmware */;
+		codeSenseManager = 40C51ABE10F86CF700645E60 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					522,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 284716277;
+			PBXWorkspaceStateSaveDate = 284716277;
+		};
+		perUserProjectItems = {
+			40C51ABF10F908F600645E60 /* PBXTextBookmark */ = 40C51ABF10F908F600645E60 /* PBXTextBookmark */;
+			40C51AC010F908F600645E60 /* PBXTextBookmark */ = 40C51AC010F908F600645E60 /* PBXTextBookmark */;
+			40C51AC110F908F600645E60 /* PBXTextBookmark */ = 40C51AC110F908F600645E60 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 40C51ABD10F86CF700645E60 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4079525E0CEA38CC00E202DC /* main.c */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = statements;\n            r = \"{458, 14}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 642}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {700, 712}}";
+			sepNavSelRange = "{451, 0}";
+			sepNavVisRange = "{0, 629}";
+		};
+	};
+	4079525F0CEA38CC00E202DC /* Makefile */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {803, 1391}}";
+			sepNavSelRange = "{1531, 0}";
+			sepNavVisRange = "{584, 1274}";
+		};
+	};
+	407952600CEA391500E202DC /* firmware */ = {
+		activeExec = 0;
+	};
+	40C51ABD10F86CF700645E60 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	40C51ABE10F86CF700645E60 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	40C51ABF10F908F600645E60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4079525F0CEA38CC00E202DC /* Makefile */;
+		name = "Makefile: 67";
+		rLen = 0;
+		rLoc = 1531;
+		rType = 0;
+		vrLen = 1274;
+		vrLoc = 584;
+	};
+	40C51AC010F908F600645E60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4079525E0CEA38CC00E202DC /* main.c */;
+		name = "main.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 294;
+		vrLoc = 0;
+	};
+	40C51AC110F908F600645E60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4079525E0CEA38CC00E202DC /* main.c */;
+		name = "main.c: 30";
+		rLen = 0;
+		rLoc = 451;
+		rType = 0;
+		vrLen = 642;
+		vrLoc = 0;
+	};
+}
