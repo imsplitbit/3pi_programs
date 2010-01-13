@@ -50,7 +50,7 @@
 /* Begin PBXProject section */
 		4079523D0CEA382200E202DC /* Project object */ = {
 			isa = PBXProject;
-			buildConfigurationList = 4079523E0CEA382200E202DC /* Build configuration list for PBXProject "read_and_display_sensor_data" */;
+			buildConfigurationList = 4079523E0CEA382200E202DC /* Build configuration list for PBXProject "PID_line_follower" */;
 			compatibilityVersion = "Xcode 2.4";
 			hasScannedForEncodings = 0;
 			mainGroup = 4079523B0CEA382200E202DC;
@@ -80,7 +80,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4079523E0CEA382200E202DC /* Build configuration list for PBXProject "read_and_display_sensor_data" */ = {
+		4079523E0CEA382200E202DC /* Build configuration list for PBXProject "PID_line_follower" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				407952400CEA382200E202DC /* Release */,

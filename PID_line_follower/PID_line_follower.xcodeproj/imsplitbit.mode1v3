@@ -292,7 +292,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>190 92 875 792 0 0 1920 1058 </string>
+						<string>1024 88 875 792 0 0 1920 1058 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -322,11 +322,11 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>409B1EBA10F9C2D10081450D</string>
+										<string>40E385E310FD7A9F00761502</string>
 										<key>history</key>
 										<array>
 											<string>409B1EB810F9C2D10081450D</string>
-											<string>409B1EB910F9C2D10081450D</string>
+											<string>40D4AC2C10FD732900763C60</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -338,14 +338,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {667, 565}}</string>
+								<string>{{0, 0}, {667, 555}}</string>
 								<key>RubberWindowFrame</key>
-								<string>190 92 875 792 0 0 1920 1058 </string>
+								<string>1024 88 875 792 0 0 1920 1058 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>565pt</string>
+							<string>555pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -358,14 +358,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 570}, {667, 181}}</string>
+								<string>{{0, 560}, {667, 191}}</string>
 								<key>RubberWindowFrame</key>
-								<string>190 92 875 792 0 0 1920 1058 </string>
+								<string>1024 88 875 792 0 0 1920 1058 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>181pt</string>
+							<string>191pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -384,9 +384,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>409B1EB110F99BE90081450D</string>
+				<string>40E385E010FD7A9F00761502</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>409B1EB210F99BE90081450D</string>
+				<string>40E385E110FD7A9F00761502</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -525,10 +525,10 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>409B1EB410F99BE90081450D</string>
-		<string>/Users/imsplitbit/Development/3pi_programs/read_and_display_sensor_data/read_and_display_sensor_data.xcodeproj</string>
+		<string>/Users/imsplitbit/Development/3pi_programs/PID_line_follower/PID_line_follower.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>190 92 875 792 0 0 1920 1058 </string>
+	<string>1024 88 875 792 0 0 1920 1058 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -605,7 +605,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>409B1EB410F99BE90081450D</string>
-				<string>409B1EB510F99BE90081450D</string>
+				<string>40E385E210FD7A9F00761502</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
